@@ -20,9 +20,9 @@ Esta práctica consiste en transformar los wireframes previamente diseñados en 
 Para el sistema de diseño, hemos optado por una paleta de tonos azules, ya que transmiten confianza, profesionalismo y modernidad. Estos colores han sido seleccionados estratégicamente para reforzar el branding y el impacto visual en estrategias de marketing digital. Además, los tonos fríos proporcionan una sensación de estabilidad y fiabilidad, características clave en la identidad visual del proyecto.
 
 ## 🔗 Enlaces
-- 📌 **Diseño en Figma:** [Ver en Figma](https://www.figma.com/design/xbyHbKs2CQv3pJr4RMihAz/Untitled?m=auto&t=Z8FemokjD2ytfSmR-6)  
+- 📌 **Diseño en Figma:** [Ver en Figma](https://www.figma.com/design/rp3c4lUMizK9cIIh5GBN1h/ClickCreativo?m=auto&t=Z8FemokjD2ytfSmR-6)  
 - 📌 **Repositorio en GitHub:** [Ver Repositorio](https://github.com/alejanf2885/EMD)  
-- 📌 **Proyecto Desplegado:** [Ver Proyecto](#) *(Enlace pendiente de actualización)*  
+- 📌 **Proyecto Desplegado:** [Ver Proyecto](https://emd-lemon.vercel.app/)  
 
 ---
 
