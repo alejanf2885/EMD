@@ -1,50 +1,30 @@
-# React + TypeScript + Vite
+# Sistema de Diseño e Implementación en React + Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Información del Proyecto
+**Práctica 5.1** - Creación de un Sistema de Diseño e Implementación en React + Tailwind CSS  
+**Integrantes:**
+- Elena Díaz Peres  
+- Alejandro Sánchez Navarro  
+- Pablo Álvaro Serrano  
+**Curso:** S2DAW  
+**Fecha:** 17 de febrero de 2025  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Descripción
+Esta práctica consiste en transformar los wireframes previamente diseñados en un sistema de diseño estructurado en Figma. Posteriormente, este sistema se implementa en un proyecto en React con TypeScript utilizando Tailwind CSS para la estilización.
 
-## Expanding the ESLint configuration
+---
+## 🎨 Elección de Colores
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Para el sistema de diseño, hemos optado por una paleta de tonos azules, ya que transmiten confianza, profesionalismo y modernidad. Estos colores han sido seleccionados estratégicamente para reforzar el branding y el impacto visual en estrategias de marketing digital. Además, los tonos fríos proporcionan una sensación de estabilidad y fiabilidad, características clave en la identidad visual del proyecto.
 
-- Configure the top-level `parserOptions` property like this:
+## 🔗 Enlaces
+- 📌 **Diseño en Figma:** [Ver en Figma](https://www.figma.com/design/xbyHbKs2CQv3pJr4RMihAz/Untitled?m=auto&t=Z8FemokjD2ytfSmR-6)  
+- 📌 **Repositorio en GitHub:** [Ver Repositorio](https://github.com/alejanf2885/EMD)  
+- 📌 **Proyecto Desplegado:** [Ver Proyecto](#) *(Enlace pendiente de actualización)*  
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+---
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
