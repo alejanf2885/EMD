@@ -4,7 +4,7 @@
 **Práctica 5.1** - Creación de un Sistema de Diseño e Implementación en React + Tailwind CSS  
 **Integrantes:**
 - Elena Díaz Peres  
-- Alejandro Sánchez Navarro  
+- Alejandro Navarro Fernandez 
 - Pablo Álvaro Serrano  
 **Curso:** S2DAW  
 **Fecha:** 17 de febrero de 2025  
